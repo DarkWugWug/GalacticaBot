@@ -1,0 +1,27 @@
+{
+  "name": "galactica-bot",
+  "version": "0.0.1",
+  "description": "A modular and expandable application to making a Discord bot.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Nolan Rosen",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "bufferutil": "^3.0.3",
+    "child_process": "^1.0.2",
+    "discord.js": "^11.3.0",
+    "node-opus": "^0.2.7",
+    "opusscript": "0.0.6",
+    "redwrap": "0.0.4",
+    "steam-web": "^0.4.0",
+    "string": "^3.3.3",
+    "superagent": "^3.5.2",
+    "uws": "^9.14.0",
+    "winston": "^2.4.0",
+    "ytdl-core": "^0.20.1"
+  },
+  "devDependencies": {}
+}

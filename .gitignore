@@ -1,0 +1,11 @@
+## Node Dependencies ##
+node_modules/
+
+## Loging Files ##
+log/
+
+## Data Files ##
+data/
+
+## Config Files ##
+config/config.js
